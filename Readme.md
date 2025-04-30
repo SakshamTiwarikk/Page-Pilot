@@ -21,7 +21,7 @@ Coming soon
 Manual Installation
 
 Clone this repository:
-Copygit clone https://github.com/priyanshusoni3850/PagePilot.git
+Copygit clone https://github.com/SakshamTiwarikk/Page-Pilot.git
 
 Open Chrome and navigate to chrome://extensions/
 Enable "Developer mode" in the top right corner
@@ -72,8 +72,3 @@ Create your feature branch (git checkout -b feature/amazing-feature)
 Commit your changes (git commit -m 'Add some amazing feature')
 Push to the branch (git push origin feature/amazing-feature)
 Open a Pull Request
-
-
-📞 Contact
-Priyanshu Soni - GitHub
-Project Link: https://github.com/priyanshusoni3850/PagePilot
